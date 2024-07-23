@@ -1,0 +1,6 @@
+projectKey=lararel
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=lararel
+ceTaskId=45962e85-ea10-41b6-9d78-fe33a6a4aafe
+ceTaskUrl=http://localhost:9000/api/ce/task?id=45962e85-ea10-41b6-9d78-fe33a6a4aafe
